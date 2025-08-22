@@ -1,0 +1,17 @@
+C:\Users\Gustavo\source\repos\Termo\Termo\bin\Debug\net8.0-windows\Termo.exe
+C:\Users\Gustavo\source\repos\Termo\Termo\bin\Debug\net8.0-windows\Termo.deps.json
+C:\Users\Gustavo\source\repos\Termo\Termo\bin\Debug\net8.0-windows\Termo.runtimeconfig.json
+C:\Users\Gustavo\source\repos\Termo\Termo\bin\Debug\net8.0-windows\Termo.dll
+C:\Users\Gustavo\source\repos\Termo\Termo\bin\Debug\net8.0-windows\Termo.pdb
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.Form1.resources
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.dll
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\refint\Termo.dll
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.pdb
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\ref\Termo.dll
+C:\Users\Gustavo\source\repos\Termo\Termo\obj\Debug\net8.0-windows\Termo.Properties.Resources.resources
